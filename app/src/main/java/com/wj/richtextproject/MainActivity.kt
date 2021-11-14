@@ -1,10 +1,10 @@
-package com.longfor.richtextproject
+package com.wj.richtextproject
 
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
-import com.longfor.audioproject.utils.GlideApp
+import com.wj.audioproject.utils.GlideApp
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

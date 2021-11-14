@@ -1,11 +1,11 @@
-package com.longfor.richtextproject.utils;
+package com.wj.richtextproject.utils;
 
 import android.util.DisplayMetrics;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.longfor.richtextproject.MyApplication;
+import com.wj.richtextproject.MyApplication;
 
 
 /**

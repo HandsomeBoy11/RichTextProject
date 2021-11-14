@@ -1,4 +1,4 @@
-package com.longfor.richtextproject
+package com.wj.richtextproject
 
 import org.junit.Test
 

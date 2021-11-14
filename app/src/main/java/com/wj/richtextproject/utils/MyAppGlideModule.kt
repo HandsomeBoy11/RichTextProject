@@ -1,4 +1,4 @@
-package com.longfor.audioproject.utils
+package com.wj.audioproject.utils
 
 import com.bumptech.glide.annotation.GlideModule
 import com.bumptech.glide.module.AppGlideModule

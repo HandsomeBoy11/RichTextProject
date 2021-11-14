@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <com.longfor.richtextproject.utils.richText.RichText
+        <com.wj.richtextproject.utils.richText.RichText
             android:id="@+id/richText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

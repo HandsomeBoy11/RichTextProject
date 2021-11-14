@@ -1,4 +1,4 @@
-package com.longfor.richtextproject.utils.richText;
+package com.wj.richtextproject.utils.richText;
 
 /**
  * Created by Jesson_Yi on 2016/6/22.
@@ -20,11 +20,11 @@ import com.bumptech.glide.load.resource.gif.GifDrawable;
 import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.target.Target;
 import com.bumptech.glide.request.transition.Transition;
-import com.longfor.audioproject.utils.GlideApp;
-import com.longfor.audioproject.utils.GlideRequest;
-import com.longfor.richtextproject.R;
-import com.longfor.richtextproject.utils.ScreenUtils;
-import com.longfor.richtextproject.utils.SizeUtils;
+import com.wj.audioproject.utils.GlideApp;
+import com.wj.audioproject.utils.GlideRequest;
+import com.wj.richtextproject.R;
+import com.wj.richtextproject.utils.ScreenUtils;
+import com.wj.richtextproject.utils.SizeUtils;
 
 import java.util.HashSet;
 

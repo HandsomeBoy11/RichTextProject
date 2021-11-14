@@ -1,4 +1,4 @@
-package com.longfor.richtextproject.utils;
+package com.wj.richtextproject.utils;
 
 import android.app.Activity;
 import android.app.KeyguardManager;
@@ -19,7 +19,7 @@ import android.view.WindowManager;
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresPermission;
 
-import com.longfor.richtextproject.MyApplication;
+import com.wj.richtextproject.MyApplication;
 
 import static android.Manifest.permission.WRITE_SETTINGS;
 

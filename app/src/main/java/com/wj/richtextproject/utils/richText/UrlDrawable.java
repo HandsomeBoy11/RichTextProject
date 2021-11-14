@@ -1,4 +1,4 @@
-package com.longfor.richtextproject.utils.richText;
+package com.wj.richtextproject.utils.richText;
 
 import android.graphics.Canvas;
 import android.graphics.drawable.BitmapDrawable;

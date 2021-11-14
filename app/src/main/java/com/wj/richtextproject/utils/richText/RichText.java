@@ -1,4 +1,4 @@
-package com.longfor.richtextproject.utils.richText;
+package com.wj.richtextproject.utils.richText;
 
 /**
  * Created by Jesson_Yi on 2016/6/22.
